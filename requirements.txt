@@ -1,0 +1,6 @@
+Django>=3.0,<4.0;
+psycopg2-binary;
+python-telegram-bot;
+djangorestframework;
+beautifulsoup4;
+requests;
