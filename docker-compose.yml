@@ -12,5 +12,5 @@ services:
     environment:
       - POSTGRES_DB=cryptodb
       - POSTGRES_USER=akreem
-      - POSTGRES_PASSWORD=korbaca2013
+      - POSTGRES_PASSWORD=pass
   
